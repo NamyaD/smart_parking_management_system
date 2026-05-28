@@ -119,7 +119,7 @@ g++ main.cpp -o parking
 # 🚀 Future Enhancements
 
 - File Handling Integration
-- GUI-Based Dashboard
+- GUI Dashboard
 - Database Connectivity
 - Online Parking Reservation
 - QR-Based Receipts
