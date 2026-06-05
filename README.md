@@ -17,7 +17,7 @@ This project focuses on applying:
 - STL Data Structures
 - Queue Management
 - Record Handling
--Real world build logic
+
 
 ---
 
