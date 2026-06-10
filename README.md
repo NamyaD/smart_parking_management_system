@@ -27,7 +27,6 @@ This project focuses on applying:
 ✅ Vehicle Exit System  
 ✅ Automatic Parking Slot Allocation  
 ✅ Parking Fee Calculation  
-✅ Vehicle Search by Number  
 ✅ Parking Status Display  
 ✅ Available & Occupied Slot Tracking  
 ✅ Admin Panel with Password Protection  
