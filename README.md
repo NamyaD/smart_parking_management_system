@@ -16,7 +16,7 @@ This project focuses on applying:
 - Object-Oriented Programming
 - STL Data Structures
 - Queue Management
-- Record Handling
+- Record Handle
 
 
 ---
