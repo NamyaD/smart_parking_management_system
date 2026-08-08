@@ -113,8 +113,6 @@ g++ main.cpp -o parking
 ./parking
 ```
 
----
-
 # 🚀 Future Enhancements
 
 - File Handling Integration
