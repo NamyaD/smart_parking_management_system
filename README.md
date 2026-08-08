@@ -124,8 +124,6 @@ g++ main.cpp -o parking
 - QR-Based Receipts
 - AI-Based Slot Prediction
 
----
-
 # 📸 Preview
 
 ```text
