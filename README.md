@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-A modern **console-based Smart Parking Management System** developed using **C++**, designed to simulate real-world parking operations with automatic slot allocation, fee calculation, admin controls, and vehicle management.
+A **console-based Smart Parking Management System** developed using **C++**, designed to simulate real-world parking operations with automatic slot allocation, fee calculation, admin controls, and vehicle management.
 
 This project focuses on applying:
 - Object-Oriented Programming
